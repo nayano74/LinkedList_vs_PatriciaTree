@@ -1,0 +1,7 @@
+Minimum Bit Comparisons: 12
+Average Bit Comparisons: 230.972888425443
+Maximum Bit Comparisons: 320
+
+Minimum Node Accesses: 3
+Average Node Accesses: 15.8467153284672
+Maximum Node Accesses: 24

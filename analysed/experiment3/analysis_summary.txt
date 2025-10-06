@@ -1,0 +1,19 @@
+--- Analysis of Results for Experiment 3 ---
+
+--- Performance for SHORT Prefixes ---
+Minimum Bit Comparisons: 50
+Average Bit Comparisons: 97.6428571428571
+Maximum Bit Comparisons: 131
+
+Minimum Node Accesses: 7
+Average Node Accesses: 13.7857142857143
+Maximum Node Accesses: 21
+
+--- Performance for LONG Keys ---
+Minimum Bit Comparisons: 248
+Average Bit Comparisons: 279.428571428571
+Maximum Bit Comparisons: 312
+
+Minimum Node Accesses: 9
+Average Node Accesses: 12.5714285714286
+Maximum Node Accesses: 17
